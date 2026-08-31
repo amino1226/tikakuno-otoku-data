@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T19:37:44+09:00",
+  "generatedAt": "2026-08-31T20:58:01+09:00",
   "campaigns": [
     {"id":"gifu-2026-cashless-20","municipality":"岐阜市","prefecture":"岐阜県","title":"令和8年度岐阜市物価高騰支援事業20％還元キャンペーン","officialUrl":"https://www.city.gifu.lg.jp/business/sangyoushinkou/1005713/1040284/","fetchedAt":"2026-08-26T00:00:00+09:00","sourceType":"municipality","sourceName":"岐阜市公式ホームページ","sourceAudience":"consumer","paymentServices":["AEON Pay","au PAY","d払い","PayPay","楽天ペイ"],"campaignType":"cashless","discountRate":20,"maxReward":"1回あたり1,000円相当、期間中5,000円相当（各決済サービス）","startDate":"2026-08-01","endDate":"2026-08-31","isNew":true},
     {"id":"hashima-2026-living-support-voucher","municipality":"羽島市","prefecture":"岐阜県","title":"羽島市くらし応援商品券事業","officialUrl":"https://www.city.hashima.lg.jp/6796.html","fetchedAt":"2026-08-26T00:00:00+09:00","publishedAt":"2026-04-28","sourceType":"municipality","sourceName":"羽島市公式Webサイト","sourceAudience":"consumer","campaignType":"regional-voucher","maxReward":"1人あたり4,000円分","eligiblePeople":"令和8年4月1日時点で羽島市の住民基本台帳に登録されている方","residentOnly":true,"startDate":"2026-07-01","endDate":"2026-12-31","isNew":true},

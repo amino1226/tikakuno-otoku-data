@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T01:16:27.485Z",
+  "generatedAt": "2026-09-04T07:36:38.470Z",
   "catalogSource": "国土数値情報 行政区域データ（N03・2023年版）",
   "catalogSourceUrl": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2023.html",
   "municipalities": [
@@ -2137,6 +2137,2611 @@
       "longitude": 145.143755,
       "postalPrefixes": [
         "086"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02201",
+      "prefecture": "青森県",
+      "name": "青森市",
+      "latitude": 40.770108,
+      "longitude": 140.754219,
+      "postalPrefixes": [
+        "030",
+        "038",
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02202",
+      "prefecture": "青森県",
+      "name": "弘前市",
+      "latitude": 40.605137,
+      "longitude": 140.384467,
+      "postalPrefixes": [
+        "036",
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02203",
+      "prefecture": "青森県",
+      "name": "八戸市",
+      "latitude": 40.474136,
+      "longitude": 141.481278,
+      "postalPrefixes": [
+        "031",
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02204",
+      "prefecture": "青森県",
+      "name": "黒石市",
+      "latitude": 40.617085,
+      "longitude": 140.704664,
+      "postalPrefixes": [
+        "036"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02205",
+      "prefecture": "青森県",
+      "name": "五所川原市",
+      "latitude": 40.916488,
+      "longitude": 140.470099,
+      "postalPrefixes": [
+        "037"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02206",
+      "prefecture": "青森県",
+      "name": "十和田市",
+      "latitude": 40.566817,
+      "longitude": 141.056995,
+      "postalPrefixes": [
+        "018",
+        "034"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02207",
+      "prefecture": "青森県",
+      "name": "三沢市",
+      "latitude": 40.746257,
+      "longitude": 141.381309,
+      "postalPrefixes": [
+        "033"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02208",
+      "prefecture": "青森県",
+      "name": "むつ市",
+      "latitude": 41.290866,
+      "longitude": 141.033343,
+      "postalPrefixes": [
+        "035",
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02209",
+      "prefecture": "青森県",
+      "name": "つがる市",
+      "latitude": 40.869806,
+      "longitude": 140.34963,
+      "postalPrefixes": [
+        "037",
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02210",
+      "prefecture": "青森県",
+      "name": "平川市",
+      "latitude": 40.518326,
+      "longitude": 140.700477,
+      "postalPrefixes": [
+        "036",
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02301",
+      "prefecture": "青森県",
+      "name": "平内町",
+      "latitude": 40.907722,
+      "longitude": 140.956192,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02303",
+      "prefecture": "青森県",
+      "name": "今別町",
+      "latitude": 41.160273,
+      "longitude": 140.516255,
+      "postalPrefixes": [
+        "030"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02304",
+      "prefecture": "青森県",
+      "name": "蓬田村",
+      "latitude": 40.995025,
+      "longitude": 140.596701,
+      "postalPrefixes": [
+        "030"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02307",
+      "prefecture": "青森県",
+      "name": "外ヶ浜町",
+      "latitude": 41.120827,
+      "longitude": 140.524443,
+      "postalPrefixes": [
+        "030"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02321",
+      "prefecture": "青森県",
+      "name": "鰺ヶ沢町",
+      "latitude": 40.651499,
+      "longitude": 140.186762,
+      "postalPrefixes": [
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02323",
+      "prefecture": "青森県",
+      "name": "深浦町",
+      "latitude": 40.604905,
+      "longitude": 140.018291,
+      "postalPrefixes": [
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02343",
+      "prefecture": "青森県",
+      "name": "西目屋村",
+      "latitude": 40.510621,
+      "longitude": 140.236987,
+      "postalPrefixes": [
+        "036"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02361",
+      "prefecture": "青森県",
+      "name": "藤崎町",
+      "latitude": 40.67522,
+      "longitude": 140.51651,
+      "postalPrefixes": [
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02362",
+      "prefecture": "青森県",
+      "name": "大鰐町",
+      "latitude": 40.484077,
+      "longitude": 140.551407,
+      "postalPrefixes": [
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02367",
+      "prefecture": "青森県",
+      "name": "田舎館村",
+      "latitude": 40.642044,
+      "longitude": 140.541656,
+      "postalPrefixes": [
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02381",
+      "prefecture": "青森県",
+      "name": "板柳町",
+      "latitude": 40.715572,
+      "longitude": 140.481107,
+      "postalPrefixes": [
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02384",
+      "prefecture": "青森県",
+      "name": "鶴田町",
+      "latitude": 40.756471,
+      "longitude": 140.421303,
+      "postalPrefixes": [
+        "038"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02387",
+      "prefecture": "青森県",
+      "name": "中泊町",
+      "latitude": 41.048983,
+      "longitude": 140.416485,
+      "postalPrefixes": [
+        "030",
+        "037"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02401",
+      "prefecture": "青森県",
+      "name": "野辺地町",
+      "latitude": 40.884593,
+      "longitude": 141.146357,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02402",
+      "prefecture": "青森県",
+      "name": "七戸町",
+      "latitude": 40.731594,
+      "longitude": 141.078776,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02405",
+      "prefecture": "青森県",
+      "name": "六戸町",
+      "latitude": 40.627596,
+      "longitude": 141.315384,
+      "postalPrefixes": [
+        "033",
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02406",
+      "prefecture": "青森県",
+      "name": "横浜町",
+      "latitude": 41.067018,
+      "longitude": 141.284981,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02408",
+      "prefecture": "青森県",
+      "name": "東北町",
+      "latitude": 40.795517,
+      "longitude": 141.234729,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02411",
+      "prefecture": "青森県",
+      "name": "六ヶ所村",
+      "latitude": 40.956878,
+      "longitude": 141.331082,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02412",
+      "prefecture": "青森県",
+      "name": "おいらせ町",
+      "latitude": 40.626167,
+      "longitude": 141.401925,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02423",
+      "prefecture": "青森県",
+      "name": "大間町",
+      "latitude": 41.476285,
+      "longitude": 140.927543,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02424",
+      "prefecture": "青森県",
+      "name": "東通村",
+      "latitude": 41.278277,
+      "longitude": 141.351974,
+      "postalPrefixes": [
+        "035",
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02425",
+      "prefecture": "青森県",
+      "name": "風間浦村",
+      "latitude": 41.463981,
+      "longitude": 141.014283,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02426",
+      "prefecture": "青森県",
+      "name": "佐井村",
+      "latitude": 41.352723,
+      "longitude": 140.855154,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02441",
+      "prefecture": "青森県",
+      "name": "三戸町",
+      "latitude": 40.377064,
+      "longitude": 141.175566,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02442",
+      "prefecture": "青森県",
+      "name": "五戸町",
+      "latitude": 40.508154,
+      "longitude": 141.296722,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02443",
+      "prefecture": "青森県",
+      "name": "田子町",
+      "latitude": 40.309094,
+      "longitude": 141.049971,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02445",
+      "prefecture": "青森県",
+      "name": "南部町",
+      "latitude": 40.422209,
+      "longitude": 141.347025,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02446",
+      "prefecture": "青森県",
+      "name": "階上町",
+      "latitude": 40.430366,
+      "longitude": 141.584129,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "02450",
+      "prefecture": "青森県",
+      "name": "新郷村",
+      "latitude": 40.447301,
+      "longitude": 141.107568,
+      "postalPrefixes": [
+        "039"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03201",
+      "prefecture": "岩手県",
+      "name": "盛岡市",
+      "latitude": 39.745451,
+      "longitude": 141.269159,
+      "postalPrefixes": [
+        "020",
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03202",
+      "prefecture": "岩手県",
+      "name": "宮古市",
+      "latitude": 39.629357,
+      "longitude": 141.725481,
+      "postalPrefixes": [
+        "027",
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03203",
+      "prefecture": "岩手県",
+      "name": "大船渡市",
+      "latitude": 39.107106,
+      "longitude": 141.749938,
+      "postalPrefixes": [
+        "022"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03205",
+      "prefecture": "岩手県",
+      "name": "花巻市",
+      "latitude": 39.441864,
+      "longitude": 141.167524,
+      "postalPrefixes": [
+        "025",
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03206",
+      "prefecture": "岩手県",
+      "name": "北上市",
+      "latitude": 39.30765,
+      "longitude": 141.007964,
+      "postalPrefixes": [
+        "024"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03207",
+      "prefecture": "岩手県",
+      "name": "久慈市",
+      "latitude": 40.143622,
+      "longitude": 141.659125,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03208",
+      "prefecture": "岩手県",
+      "name": "遠野市",
+      "latitude": 39.36478,
+      "longitude": 141.509245,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03209",
+      "prefecture": "岩手県",
+      "name": "一関市",
+      "latitude": 38.945065,
+      "longitude": 141.229786,
+      "postalPrefixes": [
+        "021",
+        "029"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03210",
+      "prefecture": "岩手県",
+      "name": "陸前高田市",
+      "latitude": 39.040968,
+      "longitude": 141.576818,
+      "postalPrefixes": [
+        "029"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03211",
+      "prefecture": "岩手県",
+      "name": "釜石市",
+      "latitude": 39.287482,
+      "longitude": 141.798284,
+      "postalPrefixes": [
+        "026"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03213",
+      "prefecture": "岩手県",
+      "name": "二戸市",
+      "latitude": 40.23798,
+      "longitude": 141.195761,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03214",
+      "prefecture": "岩手県",
+      "name": "八幡平市",
+      "latitude": 40.023898,
+      "longitude": 140.991129,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03215",
+      "prefecture": "岩手県",
+      "name": "奥州市",
+      "latitude": 39.129614,
+      "longitude": 141.094781,
+      "postalPrefixes": [
+        "023",
+        "029"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03216",
+      "prefecture": "岩手県",
+      "name": "滝沢市",
+      "latitude": 39.790356,
+      "longitude": 141.072609,
+      "postalPrefixes": [
+        "020"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03301",
+      "prefecture": "岩手県",
+      "name": "雫石町",
+      "latitude": 39.703993,
+      "longitude": 140.91331,
+      "postalPrefixes": [
+        "020"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03302",
+      "prefecture": "岩手県",
+      "name": "葛巻町",
+      "latitude": 40.006654,
+      "longitude": 141.439481,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03303",
+      "prefecture": "岩手県",
+      "name": "岩手町",
+      "latitude": 39.953354,
+      "longitude": 141.266027,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03321",
+      "prefecture": "岩手県",
+      "name": "紫波町",
+      "latitude": 39.548408,
+      "longitude": 141.158964,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03322",
+      "prefecture": "岩手県",
+      "name": "矢巾町",
+      "latitude": 39.611466,
+      "longitude": 141.124229,
+      "postalPrefixes": [
+        "020",
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03366",
+      "prefecture": "岩手県",
+      "name": "西和賀町",
+      "latitude": 39.3908,
+      "longitude": 140.790836,
+      "postalPrefixes": [
+        "024",
+        "029"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03381",
+      "prefecture": "岩手県",
+      "name": "金ケ崎町",
+      "latitude": 39.19402,
+      "longitude": 141.018164,
+      "postalPrefixes": [
+        "029"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03402",
+      "prefecture": "岩手県",
+      "name": "平泉町",
+      "latitude": 38.988906,
+      "longitude": 141.104044,
+      "postalPrefixes": [
+        "029"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03441",
+      "prefecture": "岩手県",
+      "name": "住田町",
+      "latitude": 39.180103,
+      "longitude": 141.550477,
+      "postalPrefixes": [
+        "029"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03461",
+      "prefecture": "岩手県",
+      "name": "大槌町",
+      "latitude": 39.426029,
+      "longitude": 141.814037,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03482",
+      "prefecture": "岩手県",
+      "name": "山田町",
+      "latitude": 39.484308,
+      "longitude": 141.90721,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03483",
+      "prefecture": "岩手県",
+      "name": "岩泉町",
+      "latitude": 39.848659,
+      "longitude": 141.676547,
+      "postalPrefixes": [
+        "027",
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03484",
+      "prefecture": "岩手県",
+      "name": "田野畑村",
+      "latitude": 39.92462,
+      "longitude": 141.873132,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03485",
+      "prefecture": "岩手県",
+      "name": "普代村",
+      "latitude": 40.002564,
+      "longitude": 141.866773,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03501",
+      "prefecture": "岩手県",
+      "name": "軽米町",
+      "latitude": 40.303533,
+      "longitude": 141.488946,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03503",
+      "prefecture": "岩手県",
+      "name": "野田村",
+      "latitude": 40.068706,
+      "longitude": 141.795094,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03506",
+      "prefecture": "岩手県",
+      "name": "九戸村",
+      "latitude": 40.196227,
+      "longitude": 141.433469,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03507",
+      "prefecture": "岩手県",
+      "name": "洋野町",
+      "latitude": 40.326282,
+      "longitude": 141.67125,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "03524",
+      "prefecture": "岩手県",
+      "name": "一戸町",
+      "latitude": 40.142805,
+      "longitude": 141.279171,
+      "postalPrefixes": [
+        "028"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04101",
+      "prefecture": "宮城県",
+      "name": "仙台市青葉区",
+      "latitude": 38.330742,
+      "longitude": 140.702717,
+      "postalPrefixes": [
+        "980",
+        "981",
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04102",
+      "prefecture": "宮城県",
+      "name": "仙台市宮城野区",
+      "latitude": 38.273966,
+      "longitude": 140.955968,
+      "postalPrefixes": [
+        "983",
+        "985"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04103",
+      "prefecture": "宮城県",
+      "name": "仙台市若林区",
+      "latitude": 38.225431,
+      "longitude": 140.939505,
+      "postalPrefixes": [
+        "984"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04104",
+      "prefecture": "宮城県",
+      "name": "仙台市太白区",
+      "latitude": 38.26098,
+      "longitude": 140.679504,
+      "postalPrefixes": [
+        "981",
+        "982"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04105",
+      "prefecture": "宮城県",
+      "name": "仙台市泉区",
+      "latitude": 38.353766,
+      "longitude": 140.799788,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04202",
+      "prefecture": "宮城県",
+      "name": "石巻市",
+      "latitude": 38.479654,
+      "longitude": 141.371865,
+      "postalPrefixes": [
+        "986",
+        "987"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04203",
+      "prefecture": "宮城県",
+      "name": "塩竈市",
+      "latitude": 38.326232,
+      "longitude": 141.038728,
+      "postalPrefixes": [
+        "985"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04205",
+      "prefecture": "宮城県",
+      "name": "気仙沼市",
+      "latitude": 38.876084,
+      "longitude": 141.53466,
+      "postalPrefixes": [
+        "988"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04206",
+      "prefecture": "宮城県",
+      "name": "白石市",
+      "latitude": 37.996909,
+      "longitude": 140.579457,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04207",
+      "prefecture": "宮城県",
+      "name": "名取市",
+      "latitude": 38.167249,
+      "longitude": 140.866831,
+      "postalPrefixes": [
+        "981",
+        "982",
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04208",
+      "prefecture": "宮城県",
+      "name": "角田市",
+      "latitude": 37.988275,
+      "longitude": 140.779052,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04209",
+      "prefecture": "宮城県",
+      "name": "多賀城市",
+      "latitude": 38.295356,
+      "longitude": 140.999138,
+      "postalPrefixes": [
+        "985"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04211",
+      "prefecture": "宮城県",
+      "name": "岩沼市",
+      "latitude": 38.109366,
+      "longitude": 140.874382,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04212",
+      "prefecture": "宮城県",
+      "name": "登米市",
+      "latitude": 38.685816,
+      "longitude": 141.25749,
+      "postalPrefixes": [
+        "986",
+        "987",
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04213",
+      "prefecture": "宮城県",
+      "name": "栗原市",
+      "latitude": 38.80894,
+      "longitude": 140.940372,
+      "postalPrefixes": [
+        "987",
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04214",
+      "prefecture": "宮城県",
+      "name": "東松島市",
+      "latitude": 38.411124,
+      "longitude": 141.177279,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04215",
+      "prefecture": "宮城県",
+      "name": "大崎市",
+      "latitude": 38.680048,
+      "longitude": 140.846699,
+      "postalPrefixes": [
+        "987",
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04216",
+      "prefecture": "宮城県",
+      "name": "富谷市",
+      "latitude": 38.379581,
+      "longitude": 140.901385,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04301",
+      "prefecture": "宮城県",
+      "name": "蔵王町",
+      "latitude": 38.106457,
+      "longitude": 140.591273,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04302",
+      "prefecture": "宮城県",
+      "name": "七ヶ宿町",
+      "latitude": 38.017525,
+      "longitude": 140.406086,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04321",
+      "prefecture": "宮城県",
+      "name": "大河原町",
+      "latitude": 38.052086,
+      "longitude": 140.715152,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04322",
+      "prefecture": "宮城県",
+      "name": "村田町",
+      "latitude": 38.12721,
+      "longitude": 140.730152,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04323",
+      "prefecture": "宮城県",
+      "name": "柴田町",
+      "latitude": 38.085744,
+      "longitude": 140.787744,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04324",
+      "prefecture": "宮城県",
+      "name": "川崎町",
+      "latitude": 38.198632,
+      "longitude": 140.591465,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04341",
+      "prefecture": "宮城県",
+      "name": "丸森町",
+      "latitude": 37.873473,
+      "longitude": 140.755247,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04361",
+      "prefecture": "宮城県",
+      "name": "亘理町",
+      "latitude": 38.041414,
+      "longitude": 140.874136,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04362",
+      "prefecture": "宮城県",
+      "name": "山元町",
+      "latitude": 37.945672,
+      "longitude": 140.885435,
+      "postalPrefixes": [
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04401",
+      "prefecture": "宮城県",
+      "name": "松島町",
+      "latitude": 38.403627,
+      "longitude": 141.075944,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04404",
+      "prefecture": "宮城県",
+      "name": "七ヶ浜町",
+      "latitude": 38.300064,
+      "longitude": 141.059832,
+      "postalPrefixes": [
+        "985"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04406",
+      "prefecture": "宮城県",
+      "name": "利府町",
+      "latitude": 38.342492,
+      "longitude": 140.986442,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04421",
+      "prefecture": "宮城県",
+      "name": "大和町",
+      "latitude": 38.43294,
+      "longitude": 140.818208,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04422",
+      "prefecture": "宮城県",
+      "name": "大郷町",
+      "latitude": 38.434294,
+      "longitude": 141.000093,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04424",
+      "prefecture": "宮城県",
+      "name": "大衡村",
+      "latitude": 38.479811,
+      "longitude": 140.871855,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04444",
+      "prefecture": "宮城県",
+      "name": "色麻町",
+      "latitude": 38.520484,
+      "longitude": 140.77997,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04445",
+      "prefecture": "宮城県",
+      "name": "加美町",
+      "latitude": 38.594256,
+      "longitude": 140.696948,
+      "postalPrefixes": [
+        "981"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04501",
+      "prefecture": "宮城県",
+      "name": "涌谷町",
+      "latitude": 38.559218,
+      "longitude": 141.153647,
+      "postalPrefixes": [
+        "987"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04505",
+      "prefecture": "宮城県",
+      "name": "美里町",
+      "latitude": 38.520093,
+      "longitude": 141.093151,
+      "postalPrefixes": [
+        "987",
+        "989"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04581",
+      "prefecture": "宮城県",
+      "name": "女川町",
+      "latitude": 38.44206,
+      "longitude": 141.455308,
+      "postalPrefixes": [
+        "986"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "04606",
+      "prefecture": "宮城県",
+      "name": "南三陸町",
+      "latitude": 38.684743,
+      "longitude": 141.451998,
+      "postalPrefixes": [
+        "986",
+        "988"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05201",
+      "prefecture": "秋田県",
+      "name": "秋田市",
+      "latitude": 39.710413,
+      "longitude": 140.232021,
+      "postalPrefixes": [
+        "010",
+        "011",
+        "019"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05202",
+      "prefecture": "秋田県",
+      "name": "能代市",
+      "latitude": 40.202897,
+      "longitude": 140.144819,
+      "postalPrefixes": [
+        "016",
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05203",
+      "prefecture": "秋田県",
+      "name": "横手市",
+      "latitude": 39.283602,
+      "longitude": 140.544279,
+      "postalPrefixes": [
+        "013",
+        "019"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05204",
+      "prefecture": "秋田県",
+      "name": "大館市",
+      "latitude": 40.290115,
+      "longitude": 140.55465,
+      "postalPrefixes": [
+        "017",
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05206",
+      "prefecture": "秋田県",
+      "name": "男鹿市",
+      "latitude": 39.937917,
+      "longitude": 139.836137,
+      "postalPrefixes": [
+        "010"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05207",
+      "prefecture": "秋田県",
+      "name": "湯沢市",
+      "latitude": 39.036578,
+      "longitude": 140.542686,
+      "postalPrefixes": [
+        "012",
+        "019"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05209",
+      "prefecture": "秋田県",
+      "name": "鹿角市",
+      "latitude": 40.210353,
+      "longitude": 140.830298,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05210",
+      "prefecture": "秋田県",
+      "name": "由利本荘市",
+      "latitude": 39.293363,
+      "longitude": 140.164982,
+      "postalPrefixes": [
+        "015",
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05211",
+      "prefecture": "秋田県",
+      "name": "潟上市",
+      "latitude": 39.872647,
+      "longitude": 140.049077,
+      "postalPrefixes": [
+        "010",
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05212",
+      "prefecture": "秋田県",
+      "name": "大仙市",
+      "latitude": 39.537094,
+      "longitude": 140.441395,
+      "postalPrefixes": [
+        "014",
+        "019"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05213",
+      "prefecture": "秋田県",
+      "name": "北秋田市",
+      "latitude": 40.055117,
+      "longitude": 140.464652,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05214",
+      "prefecture": "秋田県",
+      "name": "にかほ市",
+      "latitude": 39.196805,
+      "longitude": 139.972994,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05215",
+      "prefecture": "秋田県",
+      "name": "仙北市",
+      "latitude": 39.76051,
+      "longitude": 140.668572,
+      "postalPrefixes": [
+        "014"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05303",
+      "prefecture": "秋田県",
+      "name": "小坂町",
+      "latitude": 40.399216,
+      "longitude": 140.779704,
+      "postalPrefixes": [
+        "017",
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05327",
+      "prefecture": "秋田県",
+      "name": "上小阿仁村",
+      "latitude": 39.962017,
+      "longitude": 140.3186,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05346",
+      "prefecture": "秋田県",
+      "name": "藤里町",
+      "latitude": 40.359354,
+      "longitude": 140.250888,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05348",
+      "prefecture": "秋田県",
+      "name": "三種町",
+      "latitude": 40.070672,
+      "longitude": 140.106787,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05349",
+      "prefecture": "秋田県",
+      "name": "八峰町",
+      "latitude": 40.362553,
+      "longitude": 140.068392,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05361",
+      "prefecture": "秋田県",
+      "name": "五城目町",
+      "latitude": 39.926736,
+      "longitude": 140.203853,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05363",
+      "prefecture": "秋田県",
+      "name": "八郎潟町",
+      "latitude": 39.959139,
+      "longitude": 140.080725,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05366",
+      "prefecture": "秋田県",
+      "name": "井川町",
+      "latitude": 39.895096,
+      "longitude": 140.123323,
+      "postalPrefixes": [
+        "018"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05368",
+      "prefecture": "秋田県",
+      "name": "大潟村",
+      "latitude": 40.001525,
+      "longitude": 140.002124,
+      "postalPrefixes": [
+        "010"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05434",
+      "prefecture": "秋田県",
+      "name": "美郷町",
+      "latitude": 39.428244,
+      "longitude": 140.595947,
+      "postalPrefixes": [
+        "019"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05463",
+      "prefecture": "秋田県",
+      "name": "羽後町",
+      "latitude": 39.183978,
+      "longitude": 140.350029,
+      "postalPrefixes": [
+        "012"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "05464",
+      "prefecture": "秋田県",
+      "name": "東成瀬村",
+      "latitude": 39.10209,
+      "longitude": 140.727836,
+      "postalPrefixes": [
+        "019"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06201",
+      "prefecture": "山形県",
+      "name": "山形市",
+      "latitude": 38.246099,
+      "longitude": 140.368964,
+      "postalPrefixes": [
+        "990",
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06202",
+      "prefecture": "山形県",
+      "name": "米沢市",
+      "latitude": 37.847274,
+      "longitude": 140.116526,
+      "postalPrefixes": [
+        "992"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06203",
+      "prefecture": "山形県",
+      "name": "鶴岡市",
+      "latitude": 38.585076,
+      "longitude": 139.808362,
+      "postalPrefixes": [
+        "997",
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06204",
+      "prefecture": "山形県",
+      "name": "酒田市",
+      "latitude": 38.924894,
+      "longitude": 139.983923,
+      "postalPrefixes": [
+        "998",
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06205",
+      "prefecture": "山形県",
+      "name": "新庄市",
+      "latitude": 38.788186,
+      "longitude": 140.339904,
+      "postalPrefixes": [
+        "996",
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06206",
+      "prefecture": "山形県",
+      "name": "寒河江市",
+      "latitude": 38.434464,
+      "longitude": 140.231709,
+      "postalPrefixes": [
+        "990",
+        "991"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06207",
+      "prefecture": "山形県",
+      "name": "上山市",
+      "latitude": 38.125785,
+      "longitude": 140.305528,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06208",
+      "prefecture": "山形県",
+      "name": "村山市",
+      "latitude": 38.516714,
+      "longitude": 140.335198,
+      "postalPrefixes": [
+        "995"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06209",
+      "prefecture": "山形県",
+      "name": "長井市",
+      "latitude": 38.137405,
+      "longitude": 139.981856,
+      "postalPrefixes": [
+        "993"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06210",
+      "prefecture": "山形県",
+      "name": "天童市",
+      "latitude": 38.358191,
+      "longitude": 140.396535,
+      "postalPrefixes": [
+        "994"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06211",
+      "prefecture": "山形県",
+      "name": "東根市",
+      "latitude": 38.425588,
+      "longitude": 140.466715,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06212",
+      "prefecture": "山形県",
+      "name": "尾花沢市",
+      "latitude": 38.593619,
+      "longitude": 140.476827,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06213",
+      "prefecture": "山形県",
+      "name": "南陽市",
+      "latitude": 38.103193,
+      "longitude": 140.156101,
+      "postalPrefixes": [
+        "992",
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06301",
+      "prefecture": "山形県",
+      "name": "山辺町",
+      "latitude": 38.280221,
+      "longitude": 140.214955,
+      "postalPrefixes": [
+        "990"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06302",
+      "prefecture": "山形県",
+      "name": "中山町",
+      "latitude": 38.330974,
+      "longitude": 140.259749,
+      "postalPrefixes": [
+        "990"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06321",
+      "prefecture": "山形県",
+      "name": "河北町",
+      "latitude": 38.430177,
+      "longitude": 140.301018,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06322",
+      "prefecture": "山形県",
+      "name": "西川町",
+      "latitude": 38.424926,
+      "longitude": 140.023538,
+      "postalPrefixes": [
+        "990"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06323",
+      "prefecture": "山形県",
+      "name": "朝日町",
+      "latitude": 38.280471,
+      "longitude": 140.065382,
+      "postalPrefixes": [
+        "990"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06324",
+      "prefecture": "山形県",
+      "name": "大江町",
+      "latitude": 38.354757,
+      "longitude": 140.085534,
+      "postalPrefixes": [
+        "990",
+        "991"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06341",
+      "prefecture": "山形県",
+      "name": "大石田町",
+      "latitude": 38.597662,
+      "longitude": 140.336094,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06361",
+      "prefecture": "山形県",
+      "name": "金山町",
+      "latitude": 38.90287,
+      "longitude": 140.371696,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06362",
+      "prefecture": "山形県",
+      "name": "最上町",
+      "latitude": 38.768227,
+      "longitude": 140.526899,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06363",
+      "prefecture": "山形県",
+      "name": "舟形町",
+      "latitude": 38.679674,
+      "longitude": 140.325701,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06364",
+      "prefecture": "山形県",
+      "name": "真室川町",
+      "latitude": 38.956064,
+      "longitude": 140.243655,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06365",
+      "prefecture": "山形県",
+      "name": "大蔵村",
+      "latitude": 38.593997,
+      "longitude": 140.171932,
+      "postalPrefixes": [
+        "996"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06366",
+      "prefecture": "山形県",
+      "name": "鮭川村",
+      "latitude": 38.826061,
+      "longitude": 140.196877,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06367",
+      "prefecture": "山形県",
+      "name": "戸沢村",
+      "latitude": 38.719213,
+      "longitude": 140.12201,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06381",
+      "prefecture": "山形県",
+      "name": "高畠町",
+      "latitude": 37.990418,
+      "longitude": 140.2159,
+      "postalPrefixes": [
+        "992",
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06382",
+      "prefecture": "山形県",
+      "name": "川西町",
+      "latitude": 37.971737,
+      "longitude": 140.023589,
+      "postalPrefixes": [
+        "992",
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06401",
+      "prefecture": "山形県",
+      "name": "小国町",
+      "latitude": 38.040782,
+      "longitude": 139.774867,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06402",
+      "prefecture": "山形県",
+      "name": "白鷹町",
+      "latitude": 38.200548,
+      "longitude": 140.082618,
+      "postalPrefixes": [
+        "992"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06403",
+      "prefecture": "山形県",
+      "name": "飯豊町",
+      "latitude": 37.938324,
+      "longitude": 139.897127,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06426",
+      "prefecture": "山形県",
+      "name": "三川町",
+      "latitude": 38.795217,
+      "longitude": 139.8502,
+      "postalPrefixes": [
+        "997"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06428",
+      "prefecture": "山形県",
+      "name": "庄内町",
+      "latitude": 38.705536,
+      "longitude": 140.001007,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "06461",
+      "prefecture": "山形県",
+      "name": "遊佐町",
+      "latitude": 39.058392,
+      "longitude": 139.951621,
+      "postalPrefixes": [
+        "999"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07201",
+      "prefecture": "福島県",
+      "name": "福島市",
+      "latitude": 37.78643,
+      "longitude": 140.388509,
+      "postalPrefixes": [
+        "960"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07202",
+      "prefecture": "福島県",
+      "name": "会津若松市",
+      "latitude": 37.450643,
+      "longitude": 139.968046,
+      "postalPrefixes": [
+        "965",
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07203",
+      "prefecture": "福島県",
+      "name": "郡山市",
+      "latitude": 37.41277,
+      "longitude": 140.295082,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07204",
+      "prefecture": "福島県",
+      "name": "いわき市",
+      "latitude": 37.077638,
+      "longitude": 140.786069,
+      "postalPrefixes": [
+        "970",
+        "971",
+        "972",
+        "973",
+        "974",
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07205",
+      "prefecture": "福島県",
+      "name": "白河市",
+      "latitude": 37.122258,
+      "longitude": 140.24964,
+      "postalPrefixes": [
+        "961",
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07207",
+      "prefecture": "福島県",
+      "name": "須賀川市",
+      "latitude": 37.293429,
+      "longitude": 140.316923,
+      "postalPrefixes": [
+        "962"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07208",
+      "prefecture": "福島県",
+      "name": "喜多方市",
+      "latitude": 37.703029,
+      "longitude": 139.843882,
+      "postalPrefixes": [
+        "966",
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07209",
+      "prefecture": "福島県",
+      "name": "相馬市",
+      "latitude": 37.78263,
+      "longitude": 140.876254,
+      "postalPrefixes": [
+        "976",
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07210",
+      "prefecture": "福島県",
+      "name": "二本松市",
+      "latitude": 37.584026,
+      "longitude": 140.495454,
+      "postalPrefixes": [
+        "964",
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07211",
+      "prefecture": "福島県",
+      "name": "田村市",
+      "latitude": 37.423555,
+      "longitude": 140.671535,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07212",
+      "prefecture": "福島県",
+      "name": "南相馬市",
+      "latitude": 37.631116,
+      "longitude": 140.92845,
+      "postalPrefixes": [
+        "975",
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07213",
+      "prefecture": "福島県",
+      "name": "伊達市",
+      "latitude": 37.799519,
+      "longitude": 140.614348,
+      "postalPrefixes": [
+        "960"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07214",
+      "prefecture": "福島県",
+      "name": "本宮市",
+      "latitude": 37.5048,
+      "longitude": 140.418845,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07301",
+      "prefecture": "福島県",
+      "name": "桑折町",
+      "latitude": 37.858857,
+      "longitude": 140.505885,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07303",
+      "prefecture": "福島県",
+      "name": "国見町",
+      "latitude": 37.888755,
+      "longitude": 140.551158,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07308",
+      "prefecture": "福島県",
+      "name": "川俣町",
+      "latitude": 37.643761,
+      "longitude": 140.628349,
+      "postalPrefixes": [
+        "960"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07322",
+      "prefecture": "福島県",
+      "name": "大玉村",
+      "latitude": 37.558586,
+      "longitude": 140.334463,
+      "postalPrefixes": [
+        "964",
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07342",
+      "prefecture": "福島県",
+      "name": "鏡石町",
+      "latitude": 37.244569,
+      "longitude": 140.35172,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07344",
+      "prefecture": "福島県",
+      "name": "天栄村",
+      "latitude": 37.261372,
+      "longitude": 140.087802,
+      "postalPrefixes": [
+        "962"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07362",
+      "prefecture": "福島県",
+      "name": "下郷町",
+      "latitude": 37.256562,
+      "longitude": 139.879624,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07364",
+      "prefecture": "福島県",
+      "name": "檜枝岐村",
+      "latitude": 37.032394,
+      "longitude": 139.332465,
+      "postalPrefixes": [
+        "967"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07367",
+      "prefecture": "福島県",
+      "name": "只見町",
+      "latitude": 37.29145,
+      "longitude": 139.347825,
+      "postalPrefixes": [
+        "968"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07368",
+      "prefecture": "福島県",
+      "name": "南会津町",
+      "latitude": 37.13676,
+      "longitude": 139.606237,
+      "postalPrefixes": [
+        "967"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07402",
+      "prefecture": "福島県",
+      "name": "北塩原村",
+      "latitude": 37.689795,
+      "longitude": 140.048495,
+      "postalPrefixes": [
+        "966",
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07405",
+      "prefecture": "福島県",
+      "name": "西会津町",
+      "latitude": 37.635557,
+      "longitude": 139.647986,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07407",
+      "prefecture": "福島県",
+      "name": "磐梯町",
+      "latitude": 37.578307,
+      "longitude": 140.005799,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07408",
+      "prefecture": "福島県",
+      "name": "猪苗代町",
+      "latitude": 37.594519,
+      "longitude": 140.15601,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07421",
+      "prefecture": "福島県",
+      "name": "会津坂下町",
+      "latitude": 37.568913,
+      "longitude": 139.800646,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07422",
+      "prefecture": "福島県",
+      "name": "湯川村",
+      "latitude": 37.567289,
+      "longitude": 139.88228,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07423",
+      "prefecture": "福島県",
+      "name": "柳津町",
+      "latitude": 37.456671,
+      "longitude": 139.708824,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07444",
+      "prefecture": "福島県",
+      "name": "三島町",
+      "latitude": 37.441881,
+      "longitude": 139.638067,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07445",
+      "prefecture": "福島県",
+      "name": "金山町",
+      "latitude": 37.433569,
+      "longitude": 139.486934,
+      "postalPrefixes": [
+        "968"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07446",
+      "prefecture": "福島県",
+      "name": "昭和村",
+      "latitude": 37.309088,
+      "longitude": 139.636609,
+      "postalPrefixes": [
+        "968"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07447",
+      "prefecture": "福島県",
+      "name": "会津美里町",
+      "latitude": 37.408648,
+      "longitude": 139.812897,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07461",
+      "prefecture": "福島県",
+      "name": "西郷村",
+      "latitude": 37.165921,
+      "longitude": 140.093571,
+      "postalPrefixes": [
+        "961"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07464",
+      "prefecture": "福島県",
+      "name": "泉崎村",
+      "latitude": 37.1586,
+      "longitude": 140.295112,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07465",
+      "prefecture": "福島県",
+      "name": "中島村",
+      "latitude": 37.148419,
+      "longitude": 140.36556,
+      "postalPrefixes": [
+        "961"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07466",
+      "prefecture": "福島県",
+      "name": "矢吹町",
+      "latitude": 37.193906,
+      "longitude": 140.347032,
+      "postalPrefixes": [
+        "969"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07481",
+      "prefecture": "福島県",
+      "name": "棚倉町",
+      "latitude": 37.002506,
+      "longitude": 140.343044,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07482",
+      "prefecture": "福島県",
+      "name": "矢祭町",
+      "latitude": 36.863024,
+      "longitude": 140.4289,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07483",
+      "prefecture": "福島県",
+      "name": "塙町",
+      "latitude": 36.926443,
+      "longitude": 140.458587,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07484",
+      "prefecture": "福島県",
+      "name": "鮫川村",
+      "latitude": 37.012386,
+      "longitude": 140.510709,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07501",
+      "prefecture": "福島県",
+      "name": "石川町",
+      "latitude": 37.145542,
+      "longitude": 140.461351,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07502",
+      "prefecture": "福島県",
+      "name": "玉川村",
+      "latitude": 37.216651,
+      "longitude": 140.449993,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07503",
+      "prefecture": "福島県",
+      "name": "平田村",
+      "latitude": 37.211074,
+      "longitude": 140.557331,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07504",
+      "prefecture": "福島県",
+      "name": "浅川町",
+      "latitude": 37.081161,
+      "longitude": 140.425881,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07505",
+      "prefecture": "福島県",
+      "name": "古殿町",
+      "latitude": 37.089996,
+      "longitude": 140.583604,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07521",
+      "prefecture": "福島県",
+      "name": "三春町",
+      "latitude": 37.440923,
+      "longitude": 140.496448,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07522",
+      "prefecture": "福島県",
+      "name": "小野町",
+      "latitude": 37.286278,
+      "longitude": 140.612581,
+      "postalPrefixes": [
+        "963"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07541",
+      "prefecture": "福島県",
+      "name": "広野町",
+      "latitude": 37.219831,
+      "longitude": 140.952469,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07542",
+      "prefecture": "福島県",
+      "name": "楢葉町",
+      "latitude": 37.281665,
+      "longitude": 140.948824,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07543",
+      "prefecture": "福島県",
+      "name": "富岡町",
+      "latitude": 37.349222,
+      "longitude": 140.974303,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07544",
+      "prefecture": "福島県",
+      "name": "川内村",
+      "latitude": 37.332284,
+      "longitude": 140.810346,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07545",
+      "prefecture": "福島県",
+      "name": "大熊町",
+      "latitude": 37.401145,
+      "longitude": 140.948531,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07546",
+      "prefecture": "福島県",
+      "name": "双葉町",
+      "latitude": 37.443569,
+      "longitude": 140.975742,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07547",
+      "prefecture": "福島県",
+      "name": "浪江町",
+      "latitude": 37.516936,
+      "longitude": 140.864277,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07548",
+      "prefecture": "福島県",
+      "name": "葛尾村",
+      "latitude": 37.509038,
+      "longitude": 140.777019,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07561",
+      "prefecture": "福島県",
+      "name": "新地町",
+      "latitude": 37.866834,
+      "longitude": 140.900901,
+      "postalPrefixes": [
+        "979"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "07564",
+      "prefecture": "福島県",
+      "name": "飯舘村",
+      "latitude": 37.678158,
+      "longitude": 140.748357,
+      "postalPrefixes": [
+        "960"
       ],
       "campaignSourceStatus": "provider-source-monitoring"
     },
@@ -13161,6 +15766,2467 @@
       "longitude": 135.763984,
       "postalPrefixes": [
         "649"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31201",
+      "prefecture": "鳥取県",
+      "name": "鳥取市",
+      "latitude": 35.429817,
+      "longitude": 134.158153,
+      "postalPrefixes": [
+        "680",
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31202",
+      "prefecture": "鳥取県",
+      "name": "米子市",
+      "latitude": 35.434132,
+      "longitude": 133.359217,
+      "postalPrefixes": [
+        "683",
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31203",
+      "prefecture": "鳥取県",
+      "name": "倉吉市",
+      "latitude": 35.390549,
+      "longitude": 133.745592,
+      "postalPrefixes": [
+        "682"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31204",
+      "prefecture": "鳥取県",
+      "name": "境港市",
+      "latitude": 35.51885,
+      "longitude": 133.231269,
+      "postalPrefixes": [
+        "684"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31302",
+      "prefecture": "鳥取県",
+      "name": "岩美町",
+      "latitude": 35.544586,
+      "longitude": 134.362605,
+      "postalPrefixes": [
+        "681"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31325",
+      "prefecture": "鳥取県",
+      "name": "若桜町",
+      "latitude": 35.322701,
+      "longitude": 134.440424,
+      "postalPrefixes": [
+        "680"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31328",
+      "prefecture": "鳥取県",
+      "name": "智頭町",
+      "latitude": 35.249603,
+      "longitude": 134.262676,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31329",
+      "prefecture": "鳥取県",
+      "name": "八頭町",
+      "latitude": 35.381449,
+      "longitude": 134.320861,
+      "postalPrefixes": [
+        "680"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31364",
+      "prefecture": "鳥取県",
+      "name": "三朝町",
+      "latitude": 35.35271,
+      "longitude": 133.893933,
+      "postalPrefixes": [
+        "682"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31370",
+      "prefecture": "鳥取県",
+      "name": "湯梨浜町",
+      "latitude": 35.472681,
+      "longitude": 133.909282,
+      "postalPrefixes": [
+        "682",
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31371",
+      "prefecture": "鳥取県",
+      "name": "琴浦町",
+      "latitude": 35.450285,
+      "longitude": 133.640923,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31372",
+      "prefecture": "鳥取県",
+      "name": "北栄町",
+      "latitude": 35.475868,
+      "longitude": 133.768853,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31384",
+      "prefecture": "鳥取県",
+      "name": "日吉津村",
+      "latitude": 35.44394,
+      "longitude": 133.379471,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31386",
+      "prefecture": "鳥取県",
+      "name": "大山町",
+      "latitude": 35.452756,
+      "longitude": 133.528761,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31389",
+      "prefecture": "鳥取県",
+      "name": "南部町",
+      "latitude": 35.320549,
+      "longitude": 133.350094,
+      "postalPrefixes": [
+        "683"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31390",
+      "prefecture": "鳥取県",
+      "name": "伯耆町",
+      "latitude": 35.333301,
+      "longitude": 133.441823,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31401",
+      "prefecture": "鳥取県",
+      "name": "日南町",
+      "latitude": 35.157619,
+      "longitude": 133.261248,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31402",
+      "prefecture": "鳥取県",
+      "name": "日野町",
+      "latitude": 35.209718,
+      "longitude": 133.414913,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "31403",
+      "prefecture": "鳥取県",
+      "name": "江府町",
+      "latitude": 35.293369,
+      "longitude": 133.521072,
+      "postalPrefixes": [
+        "689"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32201",
+      "prefecture": "島根県",
+      "name": "松江市",
+      "latitude": 35.467947,
+      "longitude": 133.068837,
+      "postalPrefixes": [
+        "690",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32202",
+      "prefecture": "島根県",
+      "name": "浜田市",
+      "latitude": 34.821799,
+      "longitude": 132.141179,
+      "postalPrefixes": [
+        "695",
+        "697",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32203",
+      "prefecture": "島根県",
+      "name": "出雲市",
+      "latitude": 35.345461,
+      "longitude": 132.754622,
+      "postalPrefixes": [
+        "691",
+        "693",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32204",
+      "prefecture": "島根県",
+      "name": "益田市",
+      "latitude": 34.624248,
+      "longitude": 131.944175,
+      "postalPrefixes": [
+        "698",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32205",
+      "prefecture": "島根県",
+      "name": "大田市",
+      "latitude": 35.135656,
+      "longitude": 132.494355,
+      "postalPrefixes": [
+        "694",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32206",
+      "prefecture": "島根県",
+      "name": "安来市",
+      "latitude": 35.333943,
+      "longitude": 133.199541,
+      "postalPrefixes": [
+        "692"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32207",
+      "prefecture": "島根県",
+      "name": "江津市",
+      "latitude": 34.974879,
+      "longitude": 132.295685,
+      "postalPrefixes": [
+        "695",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32209",
+      "prefecture": "島根県",
+      "name": "雲南市",
+      "latitude": 35.243594,
+      "longitude": 132.895461,
+      "postalPrefixes": [
+        "690",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32343",
+      "prefecture": "島根県",
+      "name": "奥出雲町",
+      "latitude": 35.157885,
+      "longitude": 133.041627,
+      "postalPrefixes": [
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32386",
+      "prefecture": "島根県",
+      "name": "飯南町",
+      "latitude": 35.061052,
+      "longitude": 132.737119,
+      "postalPrefixes": [
+        "690"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32441",
+      "prefecture": "島根県",
+      "name": "川本町",
+      "latitude": 34.990411,
+      "longitude": 132.478184,
+      "postalPrefixes": [
+        "696"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32448",
+      "prefecture": "島根県",
+      "name": "美郷町",
+      "latitude": 35.029582,
+      "longitude": 132.599138,
+      "postalPrefixes": [
+        "696",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32449",
+      "prefecture": "島根県",
+      "name": "邑南町",
+      "latitude": 34.876798,
+      "longitude": 132.501697,
+      "postalPrefixes": [
+        "696",
+        "697",
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32501",
+      "prefecture": "島根県",
+      "name": "津和野町",
+      "latitude": 34.512576,
+      "longitude": 131.808342,
+      "postalPrefixes": [
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32505",
+      "prefecture": "島根県",
+      "name": "吉賀町",
+      "latitude": 34.394457,
+      "longitude": 131.891873,
+      "postalPrefixes": [
+        "699"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32525",
+      "prefecture": "島根県",
+      "name": "海士町",
+      "latitude": 36.084653,
+      "longitude": 133.10036,
+      "postalPrefixes": [
+        "684"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32526",
+      "prefecture": "島根県",
+      "name": "西ノ島町",
+      "latitude": 36.096415,
+      "longitude": 133.015846,
+      "postalPrefixes": [
+        "684"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32527",
+      "prefecture": "島根県",
+      "name": "知夫村",
+      "latitude": 36.014199,
+      "longitude": 133.032119,
+      "postalPrefixes": [
+        "684"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "32528",
+      "prefecture": "島根県",
+      "name": "隠岐の島町",
+      "latitude": 36.25214,
+      "longitude": 133.278059,
+      "postalPrefixes": [
+        "685"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33101",
+      "prefecture": "岡山県",
+      "name": "岡山市北区",
+      "latitude": 34.771999,
+      "longitude": 133.881055,
+      "postalPrefixes": [
+        "700",
+        "701",
+        "703",
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33102",
+      "prefecture": "岡山県",
+      "name": "岡山市中区",
+      "latitude": 34.660856,
+      "longitude": 133.965939,
+      "postalPrefixes": [
+        "700",
+        "702",
+        "703"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33103",
+      "prefecture": "岡山県",
+      "name": "岡山市東区",
+      "latitude": 34.676745,
+      "longitude": 134.050348,
+      "postalPrefixes": [
+        "700",
+        "703",
+        "704",
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33104",
+      "prefecture": "岡山県",
+      "name": "岡山市南区",
+      "latitude": 34.583988,
+      "longitude": 133.905221,
+      "postalPrefixes": [
+        "700",
+        "701",
+        "702",
+        "709",
+        "710"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33202",
+      "prefecture": "岡山県",
+      "name": "倉敷市",
+      "latitude": 34.557489,
+      "longitude": 133.746413,
+      "postalPrefixes": [
+        "701",
+        "710",
+        "711",
+        "712",
+        "713"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33203",
+      "prefecture": "岡山県",
+      "name": "津山市",
+      "latitude": 35.138552,
+      "longitude": 134.029941,
+      "postalPrefixes": [
+        "708",
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33204",
+      "prefecture": "岡山県",
+      "name": "玉野市",
+      "latitude": 34.517312,
+      "longitude": 133.935962,
+      "postalPrefixes": [
+        "706"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33205",
+      "prefecture": "岡山県",
+      "name": "笠岡市",
+      "latitude": 34.501306,
+      "longitude": 133.511722,
+      "postalPrefixes": [
+        "714"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33207",
+      "prefecture": "岡山県",
+      "name": "井原市",
+      "latitude": 34.650331,
+      "longitude": 133.473699,
+      "postalPrefixes": [
+        "714",
+        "715"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33208",
+      "prefecture": "岡山県",
+      "name": "総社市",
+      "latitude": 34.702699,
+      "longitude": 133.702163,
+      "postalPrefixes": [
+        "710",
+        "719"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33209",
+      "prefecture": "岡山県",
+      "name": "高梁市",
+      "latitude": 34.817193,
+      "longitude": 133.522534,
+      "postalPrefixes": [
+        "716",
+        "719"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33210",
+      "prefecture": "岡山県",
+      "name": "新見市",
+      "latitude": 35.015718,
+      "longitude": 133.448996,
+      "postalPrefixes": [
+        "718",
+        "719"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33211",
+      "prefecture": "岡山県",
+      "name": "備前市",
+      "latitude": 34.793167,
+      "longitude": 134.234037,
+      "postalPrefixes": [
+        "701",
+        "705",
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33212",
+      "prefecture": "岡山県",
+      "name": "瀬戸内市",
+      "latitude": 34.66535,
+      "longitude": 134.141635,
+      "postalPrefixes": [
+        "701"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33213",
+      "prefecture": "岡山県",
+      "name": "赤磐市",
+      "latitude": 34.833673,
+      "longitude": 134.039477,
+      "postalPrefixes": [
+        "701",
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33214",
+      "prefecture": "岡山県",
+      "name": "真庭市",
+      "latitude": 35.13549,
+      "longitude": 133.693566,
+      "postalPrefixes": [
+        "716",
+        "717",
+        "719"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33215",
+      "prefecture": "岡山県",
+      "name": "美作市",
+      "latitude": 35.042837,
+      "longitude": 134.229945,
+      "postalPrefixes": [
+        "701",
+        "707",
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33216",
+      "prefecture": "岡山県",
+      "name": "浅口市",
+      "latitude": 34.536056,
+      "longitude": 133.594557,
+      "postalPrefixes": [
+        "714",
+        "719"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33346",
+      "prefecture": "岡山県",
+      "name": "和気町",
+      "latitude": 34.838693,
+      "longitude": 134.137873,
+      "postalPrefixes": [
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33423",
+      "prefecture": "岡山県",
+      "name": "早島町",
+      "latitude": 34.608498,
+      "longitude": 133.822905,
+      "postalPrefixes": [
+        "701"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33445",
+      "prefecture": "岡山県",
+      "name": "里庄町",
+      "latitude": 34.513135,
+      "longitude": 133.556781,
+      "postalPrefixes": [
+        "719"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33461",
+      "prefecture": "岡山県",
+      "name": "矢掛町",
+      "latitude": 34.630997,
+      "longitude": 133.589816,
+      "postalPrefixes": [
+        "714"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33586",
+      "prefecture": "岡山県",
+      "name": "新庄村",
+      "latitude": 35.203226,
+      "longitude": 133.560412,
+      "postalPrefixes": [
+        "717"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33606",
+      "prefecture": "岡山県",
+      "name": "鏡野町",
+      "latitude": 35.206104,
+      "longitude": 133.908892,
+      "postalPrefixes": [
+        "708"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33622",
+      "prefecture": "岡山県",
+      "name": "勝央町",
+      "latitude": 35.05794,
+      "longitude": 134.130311,
+      "postalPrefixes": [
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33623",
+      "prefecture": "岡山県",
+      "name": "奈義町",
+      "latitude": 35.136241,
+      "longitude": 134.184499,
+      "postalPrefixes": [
+        "708"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33643",
+      "prefecture": "岡山県",
+      "name": "西粟倉村",
+      "latitude": 35.193304,
+      "longitude": 134.340945,
+      "postalPrefixes": [
+        "707"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33663",
+      "prefecture": "岡山県",
+      "name": "久米南町",
+      "latitude": 34.922396,
+      "longitude": 133.957828,
+      "postalPrefixes": [
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33666",
+      "prefecture": "岡山県",
+      "name": "美咲町",
+      "latitude": 34.983646,
+      "longitude": 133.93829,
+      "postalPrefixes": [
+        "708",
+        "709"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "33681",
+      "prefecture": "岡山県",
+      "name": "吉備中央町",
+      "latitude": 34.858565,
+      "longitude": 133.750986,
+      "postalPrefixes": [
+        "709",
+        "716"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34101",
+      "prefecture": "広島県",
+      "name": "広島市中区",
+      "latitude": 34.381105,
+      "longitude": 132.44913,
+      "postalPrefixes": [
+        "730"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34102",
+      "prefecture": "広島県",
+      "name": "広島市東区",
+      "latitude": 34.428502,
+      "longitude": 132.514029,
+      "postalPrefixes": [
+        "732"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34103",
+      "prefecture": "広島県",
+      "name": "広島市南区",
+      "latitude": 34.358906,
+      "longitude": 132.472992,
+      "postalPrefixes": [
+        "732",
+        "734"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34104",
+      "prefecture": "広島県",
+      "name": "広島市西区",
+      "latitude": 34.393222,
+      "longitude": 132.416231,
+      "postalPrefixes": [
+        "733"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34105",
+      "prefecture": "広島県",
+      "name": "広島市安佐南区",
+      "latitude": 34.468843,
+      "longitude": 132.410443,
+      "postalPrefixes": [
+        "731"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34106",
+      "prefecture": "広島県",
+      "name": "広島市安佐北区",
+      "latitude": 34.536488,
+      "longitude": 132.526928,
+      "postalPrefixes": [
+        "731",
+        "739"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34107",
+      "prefecture": "広島県",
+      "name": "広島市安芸区",
+      "latitude": 34.398303,
+      "longitude": 132.590639,
+      "postalPrefixes": [
+        "731",
+        "736",
+        "739"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34108",
+      "prefecture": "広島県",
+      "name": "広島市佐伯区",
+      "latitude": 34.458697,
+      "longitude": 132.294986,
+      "postalPrefixes": [
+        "731",
+        "738"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34202",
+      "prefecture": "広島県",
+      "name": "呉市",
+      "latitude": 34.223685,
+      "longitude": 132.630377,
+      "postalPrefixes": [
+        "734",
+        "737"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34203",
+      "prefecture": "広島県",
+      "name": "竹原市",
+      "latitude": 34.367911,
+      "longitude": 132.882099,
+      "postalPrefixes": [
+        "725",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34204",
+      "prefecture": "広島県",
+      "name": "三原市",
+      "latitude": 34.456381,
+      "longitude": 133.003932,
+      "postalPrefixes": [
+        "722",
+        "723",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34205",
+      "prefecture": "広島県",
+      "name": "尾道市",
+      "latitude": 34.427102,
+      "longitude": 133.162749,
+      "postalPrefixes": [
+        "720",
+        "722",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34207",
+      "prefecture": "広島県",
+      "name": "福山市",
+      "latitude": 34.520874,
+      "longitude": 133.33584,
+      "postalPrefixes": [
+        "720",
+        "721",
+        "722",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34208",
+      "prefecture": "広島県",
+      "name": "府中市",
+      "latitude": 34.636491,
+      "longitude": 133.175056,
+      "postalPrefixes": [
+        "722",
+        "726",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34209",
+      "prefecture": "広島県",
+      "name": "三次市",
+      "latitude": 34.793032,
+      "longitude": 132.866032,
+      "postalPrefixes": [
+        "728",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34210",
+      "prefecture": "広島県",
+      "name": "庄原市",
+      "latitude": 34.945587,
+      "longitude": 133.066508,
+      "postalPrefixes": [
+        "727",
+        "728",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34211",
+      "prefecture": "広島県",
+      "name": "大竹市",
+      "latitude": 34.260587,
+      "longitude": 132.188554,
+      "postalPrefixes": [
+        "739"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34212",
+      "prefecture": "広島県",
+      "name": "東広島市",
+      "latitude": 34.447614,
+      "longitude": 132.761076,
+      "postalPrefixes": [
+        "739"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34213",
+      "prefecture": "広島県",
+      "name": "廿日市市",
+      "latitude": 34.397762,
+      "longitude": 132.185834,
+      "postalPrefixes": [
+        "738",
+        "739"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34214",
+      "prefecture": "広島県",
+      "name": "安芸高田市",
+      "latitude": 34.702961,
+      "longitude": 132.678389,
+      "postalPrefixes": [
+        "731",
+        "739"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34215",
+      "prefecture": "広島県",
+      "name": "江田島市",
+      "latitude": 34.214381,
+      "longitude": 132.443952,
+      "postalPrefixes": [
+        "737"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34302",
+      "prefecture": "広島県",
+      "name": "府中町",
+      "latitude": 34.397501,
+      "longitude": 132.51739,
+      "postalPrefixes": [
+        "735"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34304",
+      "prefecture": "広島県",
+      "name": "海田町",
+      "latitude": 34.366766,
+      "longitude": 132.552862,
+      "postalPrefixes": [
+        "736"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34307",
+      "prefecture": "広島県",
+      "name": "熊野町",
+      "latitude": 34.34577,
+      "longitude": 132.591666,
+      "postalPrefixes": [
+        "731"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34309",
+      "prefecture": "広島県",
+      "name": "坂町",
+      "latitude": 34.324417,
+      "longitude": 132.51392,
+      "postalPrefixes": [
+        "731"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34368",
+      "prefecture": "広島県",
+      "name": "安芸太田町",
+      "latitude": 34.603136,
+      "longitude": 132.256089,
+      "postalPrefixes": [
+        "731"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34369",
+      "prefecture": "広島県",
+      "name": "北広島町",
+      "latitude": 34.707094,
+      "longitude": 132.401155,
+      "postalPrefixes": [
+        "731"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34431",
+      "prefecture": "広島県",
+      "name": "大崎上島町",
+      "latitude": 34.242474,
+      "longitude": 132.892412,
+      "postalPrefixes": [
+        "725"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34462",
+      "prefecture": "広島県",
+      "name": "世羅町",
+      "latitude": 34.614122,
+      "longitude": 133.016806,
+      "postalPrefixes": [
+        "722",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "34545",
+      "prefecture": "広島県",
+      "name": "神石高原町",
+      "latitude": 34.7554,
+      "longitude": 133.261575,
+      "postalPrefixes": [
+        "720",
+        "729"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35201",
+      "prefecture": "山口県",
+      "name": "下関市",
+      "latitude": 34.168688,
+      "longitude": 130.990949,
+      "postalPrefixes": [
+        "750",
+        "751",
+        "752",
+        "759"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35202",
+      "prefecture": "山口県",
+      "name": "宇部市",
+      "latitude": 34.04444,
+      "longitude": 131.275283,
+      "postalPrefixes": [
+        "754",
+        "755",
+        "757",
+        "759"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35203",
+      "prefecture": "山口県",
+      "name": "山口市",
+      "latitude": 34.233629,
+      "longitude": 131.576274,
+      "postalPrefixes": [
+        "747",
+        "753",
+        "754",
+        "759"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35204",
+      "prefecture": "山口県",
+      "name": "萩市",
+      "latitude": 34.431987,
+      "longitude": 131.509513,
+      "postalPrefixes": [
+        "753",
+        "754",
+        "758",
+        "759"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35206",
+      "prefecture": "山口県",
+      "name": "防府市",
+      "latitude": 34.068996,
+      "longitude": 131.571503,
+      "postalPrefixes": [
+        "747"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35207",
+      "prefecture": "山口県",
+      "name": "下松市",
+      "latitude": 34.030023,
+      "longitude": 131.884389,
+      "postalPrefixes": [
+        "744"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35208",
+      "prefecture": "山口県",
+      "name": "岩国市",
+      "latitude": 34.205787,
+      "longitude": 132.066769,
+      "postalPrefixes": [
+        "740",
+        "741",
+        "742"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35210",
+      "prefecture": "山口県",
+      "name": "光市",
+      "latitude": 33.980216,
+      "longitude": 131.977733,
+      "postalPrefixes": [
+        "743"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35211",
+      "prefecture": "山口県",
+      "name": "長門市",
+      "latitude": 34.34957,
+      "longitude": 131.146036,
+      "postalPrefixes": [
+        "759"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35212",
+      "prefecture": "山口県",
+      "name": "柳井市",
+      "latitude": 33.957223,
+      "longitude": 132.137012,
+      "postalPrefixes": [
+        "742",
+        "749"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35213",
+      "prefecture": "山口県",
+      "name": "美祢市",
+      "latitude": 34.209505,
+      "longitude": 131.252541,
+      "postalPrefixes": [
+        "750",
+        "754",
+        "759"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35215",
+      "prefecture": "山口県",
+      "name": "周南市",
+      "latitude": 34.148972,
+      "longitude": 131.826641,
+      "postalPrefixes": [
+        "745",
+        "746",
+        "747"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35216",
+      "prefecture": "山口県",
+      "name": "山陽小野田市",
+      "latitude": 34.04039,
+      "longitude": 131.157583,
+      "postalPrefixes": [
+        "756",
+        "757"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35305",
+      "prefecture": "山口県",
+      "name": "周防大島町",
+      "latitude": 33.91478,
+      "longitude": 132.282507,
+      "postalPrefixes": [
+        "742"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35321",
+      "prefecture": "山口県",
+      "name": "和木町",
+      "latitude": 34.19564,
+      "longitude": 132.211605,
+      "postalPrefixes": [
+        "740"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35341",
+      "prefecture": "山口県",
+      "name": "上関町",
+      "latitude": 33.806374,
+      "longitude": 132.070527,
+      "postalPrefixes": [
+        "742"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35343",
+      "prefecture": "山口県",
+      "name": "田布施町",
+      "latitude": 33.951966,
+      "longitude": 132.030568,
+      "postalPrefixes": [
+        "742"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35344",
+      "prefecture": "山口県",
+      "name": "平生町",
+      "latitude": 33.91644,
+      "longitude": 132.087921,
+      "postalPrefixes": [
+        "742"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "35502",
+      "prefecture": "山口県",
+      "name": "阿武町",
+      "latitude": 34.530807,
+      "longitude": 131.552892,
+      "postalPrefixes": [
+        "758",
+        "759"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36201",
+      "prefecture": "徳島県",
+      "name": "徳島市",
+      "latitude": 34.049693,
+      "longitude": 134.524346,
+      "postalPrefixes": [
+        "770",
+        "771",
+        "773",
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36202",
+      "prefecture": "徳島県",
+      "name": "鳴門市",
+      "latitude": 34.187811,
+      "longitude": 134.549607,
+      "postalPrefixes": [
+        "771",
+        "772",
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36203",
+      "prefecture": "徳島県",
+      "name": "小松島市",
+      "latitude": 33.984198,
+      "longitude": 134.595637,
+      "postalPrefixes": [
+        "773"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36204",
+      "prefecture": "徳島県",
+      "name": "阿南市",
+      "latitude": 33.877113,
+      "longitude": 134.606528,
+      "postalPrefixes": [
+        "771",
+        "774",
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36205",
+      "prefecture": "徳島県",
+      "name": "吉野川市",
+      "latitude": 34.03706,
+      "longitude": 134.283534,
+      "postalPrefixes": [
+        "776",
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36206",
+      "prefecture": "徳島県",
+      "name": "阿波市",
+      "latitude": 34.12184,
+      "longitude": 134.288956,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36207",
+      "prefecture": "徳島県",
+      "name": "美馬市",
+      "latitude": 34.018899,
+      "longitude": 134.143321,
+      "postalPrefixes": [
+        "771",
+        "777",
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36208",
+      "prefecture": "徳島県",
+      "name": "三好市",
+      "latitude": 33.933469,
+      "longitude": 133.85181,
+      "postalPrefixes": [
+        "771",
+        "778",
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36301",
+      "prefecture": "徳島県",
+      "name": "勝浦町",
+      "latitude": 33.928596,
+      "longitude": 134.48955,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36302",
+      "prefecture": "徳島県",
+      "name": "上勝町",
+      "latitude": 33.900183,
+      "longitude": 134.383339,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36321",
+      "prefecture": "徳島県",
+      "name": "佐那河内村",
+      "latitude": 33.982535,
+      "longitude": 134.452534,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36341",
+      "prefecture": "徳島県",
+      "name": "石井町",
+      "latitude": 34.077994,
+      "longitude": 134.433567,
+      "postalPrefixes": [
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36342",
+      "prefecture": "徳島県",
+      "name": "神山町",
+      "latitude": 33.976977,
+      "longitude": 134.337116,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36368",
+      "prefecture": "徳島県",
+      "name": "那賀町",
+      "latitude": 33.800128,
+      "longitude": 134.262934,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36383",
+      "prefecture": "徳島県",
+      "name": "牟岐町",
+      "latitude": 33.686642,
+      "longitude": 134.417207,
+      "postalPrefixes": [
+        "775"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36387",
+      "prefecture": "徳島県",
+      "name": "美波町",
+      "latitude": 33.753041,
+      "longitude": 134.511903,
+      "postalPrefixes": [
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36388",
+      "prefecture": "徳島県",
+      "name": "海陽町",
+      "latitude": 33.645742,
+      "longitude": 134.273203,
+      "postalPrefixes": [
+        "775"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36401",
+      "prefecture": "徳島県",
+      "name": "松茂町",
+      "latitude": 34.135126,
+      "longitude": 134.592925,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36402",
+      "prefecture": "徳島県",
+      "name": "北島町",
+      "latitude": 34.127412,
+      "longitude": 134.549962,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36403",
+      "prefecture": "徳島県",
+      "name": "藍住町",
+      "latitude": 34.126561,
+      "longitude": 134.494447,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36404",
+      "prefecture": "徳島県",
+      "name": "板野町",
+      "latitude": 34.152617,
+      "longitude": 134.452358,
+      "postalPrefixes": [
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36405",
+      "prefecture": "徳島県",
+      "name": "上板町",
+      "latitude": 34.130765,
+      "longitude": 134.406085,
+      "postalPrefixes": [
+        "771"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36468",
+      "prefecture": "徳島県",
+      "name": "つるぎ町",
+      "latitude": 33.962461,
+      "longitude": 134.053674,
+      "postalPrefixes": [
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "36489",
+      "prefecture": "徳島県",
+      "name": "東みよし町",
+      "latitude": 34.035587,
+      "longitude": 133.917886,
+      "postalPrefixes": [
+        "771",
+        "779"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37201",
+      "prefecture": "香川県",
+      "name": "高松市",
+      "latitude": 34.269368,
+      "longitude": 134.054124,
+      "postalPrefixes": [
+        "760",
+        "761",
+        "769"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37202",
+      "prefecture": "香川県",
+      "name": "丸亀市",
+      "latitude": 34.283218,
+      "longitude": 133.815802,
+      "postalPrefixes": [
+        "761",
+        "762",
+        "763"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37203",
+      "prefecture": "香川県",
+      "name": "坂出市",
+      "latitude": 34.323387,
+      "longitude": 133.892144,
+      "postalPrefixes": [
+        "762"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37204",
+      "prefecture": "香川県",
+      "name": "善通寺市",
+      "latitude": 34.224181,
+      "longitude": 133.777751,
+      "postalPrefixes": [
+        "765"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37205",
+      "prefecture": "香川県",
+      "name": "観音寺市",
+      "latitude": 34.079353,
+      "longitude": 133.67479,
+      "postalPrefixes": [
+        "768",
+        "769"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37206",
+      "prefecture": "香川県",
+      "name": "さぬき市",
+      "latitude": 34.266304,
+      "longitude": 134.213165,
+      "postalPrefixes": [
+        "761",
+        "769"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37207",
+      "prefecture": "香川県",
+      "name": "東かがわ市",
+      "latitude": 34.21196,
+      "longitude": 134.333147,
+      "postalPrefixes": [
+        "769"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37208",
+      "prefecture": "香川県",
+      "name": "三豊市",
+      "latitude": 34.162282,
+      "longitude": 133.724627,
+      "postalPrefixes": [
+        "767",
+        "768",
+        "769"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37322",
+      "prefecture": "香川県",
+      "name": "土庄町",
+      "latitude": 34.507417,
+      "longitude": 134.198409,
+      "postalPrefixes": [
+        "761"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37324",
+      "prefecture": "香川県",
+      "name": "小豆島町",
+      "latitude": 34.490671,
+      "longitude": 134.293829,
+      "postalPrefixes": [
+        "761"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37341",
+      "prefecture": "香川県",
+      "name": "三木町",
+      "latitude": 34.23339,
+      "longitude": 134.138178,
+      "postalPrefixes": [
+        "761"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37364",
+      "prefecture": "香川県",
+      "name": "直島町",
+      "latitude": 34.467553,
+      "longitude": 133.988909,
+      "postalPrefixes": [
+        "761"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37386",
+      "prefecture": "香川県",
+      "name": "宇多津町",
+      "latitude": 34.308746,
+      "longitude": 133.82634,
+      "postalPrefixes": [
+        "769"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37387",
+      "prefecture": "香川県",
+      "name": "綾川町",
+      "latitude": 34.209974,
+      "longitude": 133.962361,
+      "postalPrefixes": [
+        "761"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37403",
+      "prefecture": "香川県",
+      "name": "琴平町",
+      "latitude": 34.195453,
+      "longitude": 133.818125,
+      "postalPrefixes": [
+        "766"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37404",
+      "prefecture": "香川県",
+      "name": "多度津町",
+      "latitude": 34.270453,
+      "longitude": 133.727962,
+      "postalPrefixes": [
+        "764"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "37406",
+      "prefecture": "香川県",
+      "name": "まんのう町",
+      "latitude": 34.14124,
+      "longitude": 133.912373,
+      "postalPrefixes": [
+        "766",
+        "769"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38201",
+      "prefecture": "愛媛県",
+      "name": "松山市",
+      "latitude": 33.883043,
+      "longitude": 132.791036,
+      "postalPrefixes": [
+        "790",
+        "791",
+        "799"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38202",
+      "prefecture": "愛媛県",
+      "name": "今治市",
+      "latitude": 34.078607,
+      "longitude": 132.975946,
+      "postalPrefixes": [
+        "792",
+        "794",
+        "799"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38203",
+      "prefecture": "愛媛県",
+      "name": "宇和島市",
+      "latitude": 33.177304,
+      "longitude": 132.555235,
+      "postalPrefixes": [
+        "798",
+        "799"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38204",
+      "prefecture": "愛媛県",
+      "name": "八幡浜市",
+      "latitude": 33.471752,
+      "longitude": 132.431332,
+      "postalPrefixes": [
+        "796"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38205",
+      "prefecture": "愛媛県",
+      "name": "新居浜市",
+      "latitude": 33.90067,
+      "longitude": 133.329645,
+      "postalPrefixes": [
+        "792",
+        "799"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38206",
+      "prefecture": "愛媛県",
+      "name": "西条市",
+      "latitude": 33.861335,
+      "longitude": 133.112243,
+      "postalPrefixes": [
+        "791",
+        "793",
+        "799"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38207",
+      "prefecture": "愛媛県",
+      "name": "大洲市",
+      "latitude": 33.520126,
+      "longitude": 132.5983,
+      "postalPrefixes": [
+        "795",
+        "797",
+        "799"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38210",
+      "prefecture": "愛媛県",
+      "name": "伊予市",
+      "latitude": 33.681669,
+      "longitude": 132.689413,
+      "postalPrefixes": [
+        "791",
+        "799"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38213",
+      "prefecture": "愛媛県",
+      "name": "四国中央市",
+      "latitude": 33.935559,
+      "longitude": 133.53615,
+      "postalPrefixes": [
+        "799"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38214",
+      "prefecture": "愛媛県",
+      "name": "西予市",
+      "latitude": 33.394106,
+      "longitude": 132.632693,
+      "postalPrefixes": [
+        "796",
+        "797"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38215",
+      "prefecture": "愛媛県",
+      "name": "東温市",
+      "latitude": 33.803707,
+      "longitude": 132.926742,
+      "postalPrefixes": [
+        "791"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38356",
+      "prefecture": "愛媛県",
+      "name": "上島町",
+      "latitude": 34.251615,
+      "longitude": 133.193038,
+      "postalPrefixes": [
+        "794"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38386",
+      "prefecture": "愛媛県",
+      "name": "久万高原町",
+      "latitude": 33.635608,
+      "longitude": 132.984967,
+      "postalPrefixes": [
+        "791"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38401",
+      "prefecture": "愛媛県",
+      "name": "松前町",
+      "latitude": 33.791775,
+      "longitude": 132.725631,
+      "postalPrefixes": [
+        "791"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38402",
+      "prefecture": "愛媛県",
+      "name": "砥部町",
+      "latitude": 33.694987,
+      "longitude": 132.789184,
+      "postalPrefixes": [
+        "791"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38422",
+      "prefecture": "愛媛県",
+      "name": "内子町",
+      "latitude": 33.569645,
+      "longitude": 132.757055,
+      "postalPrefixes": [
+        "791",
+        "795"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38442",
+      "prefecture": "愛媛県",
+      "name": "伊方町",
+      "latitude": 33.433818,
+      "longitude": 132.212818,
+      "postalPrefixes": [
+        "796"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38484",
+      "prefecture": "愛媛県",
+      "name": "松野町",
+      "latitude": 33.205319,
+      "longitude": 132.711716,
+      "postalPrefixes": [
+        "798"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38488",
+      "prefecture": "愛媛県",
+      "name": "鬼北町",
+      "latitude": 33.299875,
+      "longitude": 132.749514,
+      "postalPrefixes": [
+        "798"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "38506",
+      "prefecture": "愛媛県",
+      "name": "愛南町",
+      "latitude": 32.988538,
+      "longitude": 132.581336,
+      "postalPrefixes": [
+        "798"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39201",
+      "prefecture": "高知県",
+      "name": "高知市",
+      "latitude": 33.580303,
+      "longitude": 133.508232,
+      "postalPrefixes": [
+        "780",
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39202",
+      "prefecture": "高知県",
+      "name": "室戸市",
+      "latitude": 33.383501,
+      "longitude": 134.148284,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39203",
+      "prefecture": "高知県",
+      "name": "安芸市",
+      "latitude": 33.58797,
+      "longitude": 133.954328,
+      "postalPrefixes": [
+        "784"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39204",
+      "prefecture": "高知県",
+      "name": "南国市",
+      "latitude": 33.609811,
+      "longitude": 133.625291,
+      "postalPrefixes": [
+        "783"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39205",
+      "prefecture": "高知県",
+      "name": "土佐市",
+      "latitude": 33.475256,
+      "longitude": 133.390042,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39206",
+      "prefecture": "高知県",
+      "name": "須崎市",
+      "latitude": 33.411687,
+      "longitude": 133.3039,
+      "postalPrefixes": [
+        "785"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39208",
+      "prefecture": "高知県",
+      "name": "宿毛市",
+      "latitude": 32.961349,
+      "longitude": 132.734284,
+      "postalPrefixes": [
+        "788"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39209",
+      "prefecture": "高知県",
+      "name": "土佐清水市",
+      "latitude": 32.826954,
+      "longitude": 132.895491,
+      "postalPrefixes": [
+        "787"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39210",
+      "prefecture": "高知県",
+      "name": "四万十市",
+      "latitude": 33.081532,
+      "longitude": 132.852206,
+      "postalPrefixes": [
+        "787"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39211",
+      "prefecture": "高知県",
+      "name": "香南市",
+      "latitude": 33.583519,
+      "longitude": 133.780133,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39212",
+      "prefecture": "高知県",
+      "name": "香美市",
+      "latitude": 33.708112,
+      "longitude": 133.853184,
+      "postalPrefixes": [
+        "781",
+        "782",
+        "784",
+        "789"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39301",
+      "prefecture": "高知県",
+      "name": "東洋町",
+      "latitude": 33.51793,
+      "longitude": 134.240726,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39302",
+      "prefecture": "高知県",
+      "name": "奈半利町",
+      "latitude": 33.420351,
+      "longitude": 134.056419,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39303",
+      "prefecture": "高知県",
+      "name": "田野町",
+      "latitude": 33.438866,
+      "longitude": 134.012556,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39304",
+      "prefecture": "高知県",
+      "name": "安田町",
+      "latitude": 33.487839,
+      "longitude": 134.007147,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39305",
+      "prefecture": "高知県",
+      "name": "北川村",
+      "latitude": 33.517381,
+      "longitude": 134.118525,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39306",
+      "prefecture": "高知県",
+      "name": "馬路村",
+      "latitude": 33.622774,
+      "longitude": 134.089683,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39307",
+      "prefecture": "高知県",
+      "name": "芸西村",
+      "latitude": 33.548589,
+      "longitude": 133.827172,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39341",
+      "prefecture": "高知県",
+      "name": "本山町",
+      "latitude": 33.791893,
+      "longitude": 133.581626,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39344",
+      "prefecture": "高知県",
+      "name": "大豊町",
+      "latitude": 33.791562,
+      "longitude": 133.720503,
+      "postalPrefixes": [
+        "789"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39363",
+      "prefecture": "高知県",
+      "name": "土佐町",
+      "latitude": 33.733566,
+      "longitude": 133.482389,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39364",
+      "prefecture": "高知県",
+      "name": "大川村",
+      "latitude": 33.80066,
+      "longitude": 133.412893,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39386",
+      "prefecture": "高知県",
+      "name": "いの町",
+      "latitude": 33.680781,
+      "longitude": 133.312092,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39387",
+      "prefecture": "高知県",
+      "name": "仁淀川町",
+      "latitude": 33.582442,
+      "longitude": 133.13084,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39401",
+      "prefecture": "高知県",
+      "name": "中土佐町",
+      "latitude": 33.339162,
+      "longitude": 133.166995,
+      "postalPrefixes": [
+        "789"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39402",
+      "prefecture": "高知県",
+      "name": "佐川町",
+      "latitude": 33.49734,
+      "longitude": 133.273943,
+      "postalPrefixes": [
+        "789"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39403",
+      "prefecture": "高知県",
+      "name": "越知町",
+      "latitude": 33.54296,
+      "longitude": 133.221818,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39405",
+      "prefecture": "高知県",
+      "name": "檮原町",
+      "latitude": 33.395678,
+      "longitude": 132.925481,
+      "postalPrefixes": [
+        "785"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39410",
+      "prefecture": "高知県",
+      "name": "日高村",
+      "latitude": 33.538968,
+      "longitude": 133.35431,
+      "postalPrefixes": [
+        "781"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39411",
+      "prefecture": "高知県",
+      "name": "津野町",
+      "latitude": 33.423188,
+      "longitude": 133.085129,
+      "postalPrefixes": [
+        "785"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39412",
+      "prefecture": "高知県",
+      "name": "四万十町",
+      "latitude": 33.233547,
+      "longitude": 133.020385,
+      "postalPrefixes": [
+        "786"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39424",
+      "prefecture": "高知県",
+      "name": "大月町",
+      "latitude": 32.814504,
+      "longitude": 132.708606,
+      "postalPrefixes": [
+        "788"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39427",
+      "prefecture": "高知県",
+      "name": "三原村",
+      "latitude": 32.902498,
+      "longitude": 132.851522,
+      "postalPrefixes": [
+        "787"
+      ],
+      "campaignSourceStatus": "provider-source-monitoring"
+    },
+    {
+      "id": "39428",
+      "prefecture": "高知県",
+      "name": "黒潮町",
+      "latitude": 33.084051,
+      "longitude": 133.059439,
+      "postalPrefixes": [
+        "789"
       ],
       "campaignSourceStatus": "provider-source-monitoring"
     },
